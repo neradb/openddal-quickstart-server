@@ -1,0 +1,4 @@
+[2016-07-21 19:23:54.369] [main] [INFO] [com.openddal.server.NettyServer] - OpenDDAL MySQL Protocol Server server init ddal-engine from engine.xml
+[2016-07-21 19:23:54.848] [main] [INFO] [com.openddal.server.NettyServer] - OpenDDAL MySQL Protocol Server server ddal-engine inited.
+[2016-07-21 19:23:54.849] [main] [INFO] [com.openddal.server.NettyServer] - OpenDDAL MySQL Protocol Server server is starting
+[2016-07-21 19:23:55.025] [main] [INFO] [com.openddal.server.NettyServer] - OpenDDAL MySQL Protocol Server server started and listening on 6100
