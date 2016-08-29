@@ -1,5 +1,0 @@
-[2016-07-29 12:24:50.440] [main] [INFO] [com.openddal.server.NettyServer] - OpenDDAL MySQL Protocol Server server init ddal-engine from engine.xml
-[2016-07-29 12:24:50.861] [main] [INFO] [com.openddal.server.NettyServer] - OpenDDAL MySQL Protocol Server server ddal-engine inited.
-[2016-07-29 12:24:50.861] [main] [INFO] [com.openddal.server.NettyServer] - OpenDDAL MySQL Protocol Server server is starting
-[2016-07-29 12:24:51.033] [main] [INFO] [com.openddal.server.NettyServer] - OpenDDAL MySQL Protocol Server server started and listening on 6100
-[2016-07-29 12:25:57.153] [request-processor-5] [INFO] [c.o.s.mysql.MySQLHandshakeHandler] - Access denied for user 'root'
